@@ -15,6 +15,8 @@ Minimal `Webpack` setup for `React` project with `Typescript`, `Sass`, `Babel` a
 ## Typical `npm` setup steps
 
 ```
+cd $work_dir
+npm install
 npm start (for development)
 npm build (for production)
 ```
